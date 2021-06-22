@@ -28,3 +28,17 @@ The initial pattern constitutes the seed of the system. The first generation is 
     <li>numpy
     <li>pygame
   </ul>
+
+  <li><h2>How to use</h2>
+
+  Use these following steps:
+    <ul>
+    <li>The main function for pointers is inside <a href="main.py">main.py</a>.
+    <li>The pictorial components are in <a href="grid.py">grid.py</a>.
+    <li>Both files are already linked.
+    <li>Run <a href="main.py">main.py</a>.
+  </ul>
+  </ul>
+
+  I have added <a href=""get-pip.py>get-pip.py</a> file in case you want to learn more about <i>pygame</i> library.
+
