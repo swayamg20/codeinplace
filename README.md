@@ -33,12 +33,13 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
   Use these following steps:
     <ul>
-    <li>The main function for pointers is inside <a href="main.py">main.py</a>.
-    <li>The pictorial components are in <a href="grid.py">grid.py</a>.
-    <li>Both files are already linked.
-    <li>Run <a href="main.py">main.py</a>.
+      <li>The main function for pointers is inside <i><a href="main.py">main.py</a>.</i>
+      <li>The pictorial components are in <i><a href="grid.py">grid.py</a>.</i>
+      <li>Both files are already linked.
+      <li>Run <i><a href="main.py">main.py</a></i>.
   </ul>
   </ul>
 
-  I have added <a href=""get-pip.py>get-pip.py</a> file in case you want to learn more about <i>pygame</i> library.
+  I have added <i><a href="get-pip.py">get-pip.py</a></i> file in case you want to learn more about <i>pygame</i> library.
+  
 
